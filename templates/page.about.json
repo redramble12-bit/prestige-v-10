@@ -62,10 +62,48 @@
         "background": "#000000",
         "controls_color": "#ffffff"
       }
+    },
+    "rich_text_VgmfFE": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Pcby4T": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_Xbrhyq": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_YNBazr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Zomário is a family business that has quickly become a symbol of timeless elegance, blending innovation with tradition to create a perfect harmony of class and comfort for the modern man.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Pcby4T",
+        "heading_Xbrhyq",
+        "richtext_YNBazr"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
     "main",
-    "slideshow_HTNemq"
+    "slideshow_HTNemq",
+    "rich_text_VgmfFE"
   ]
 }
