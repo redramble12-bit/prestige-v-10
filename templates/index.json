@@ -426,13 +426,25 @@
             "link_url": "",
             "link_text": ""
           }
+        },
+        "image_with_text_6eC4kW": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/DECEWVEWE.webp",
+            "title": "Suède",
+            "heading_tag": "h6",
+            "content": "<p>The Zomario Sheep Suede is soft, matte, and smooth to the touch. Treated with a special oiling technique, it’s made to hold its colour and develop depth over time. It feels lived-in from the first wear, and only gets better with age.<br/><br/></p>",
+            "link_url": "shopify://pages/contact",
+            "link_text": "Learn more"
+          }
         }
       },
       "block_order": [
         "image_with_text_B4TwFK",
         "image_with_text_EiXpEg",
         "image_with_text_J8dbjQ",
-        "image_with_text_rjcp3R"
+        "image_with_text_rjcp3R",
+        "image_with_text_6eC4kW"
       ],
       "name": "t:sections.multi_column.presets.multi_column.name",
       "settings": {
