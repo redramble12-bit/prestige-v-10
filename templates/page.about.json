@@ -117,9 +117,48 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/DECEWVEWE.webp",
+        "image": "shopify://shop_images/8_104d52d7-b056-4202-932c-3f3e07597c3f.webp",
         "reveal_on_scroll": true,
         "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_qUaXKC": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_YtgMyV": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_48VpQb": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_Yiy6gp": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_YtgMyV",
+        "heading_48VpQb",
+        "richtext_Yiy6gp"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/24d274da-84c4-4f57-a41b-a1c6083a34df.png",
+        "reveal_on_scroll": true,
+        "image_position": "end",
         "content_width": "sm",
         "remove_vertical_spacing": true
       }
@@ -129,6 +168,7 @@
     "main",
     "slideshow_HTNemq",
     "rich_text_VgmfFE",
-    "image_with_text_WLMERC"
+    "image_with_text_WLMERC",
+    "image_with_text_qUaXKC"
   ]
 }
