@@ -128,28 +128,21 @@
     "image_with_text_qUaXKC": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_YtgMyV": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_48VpQb": {
           "type": "heading",
           "settings": {
-            "text": "Image with text",
-            "heading_tag": "h1"
+            "text": "MADE TO LAST",
+            "heading_tag": "h3"
           }
         },
         "richtext_Yiy6gp": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>The world doesn’t need another fashion brand—it needs better solutions. In the UK alone, 350,000 tonnes of still-wearable clothing go to landfill each year. Our response? An antidote to mass production and overconsumption.</p><p>Sustainability is at the core of everything we do. By crafting timeless, high-quality pieces, we create a wardrobe that transcends seasons and trends, reducing the need for constant replacements.</p><p>Style and luxury shouldn’t come at the planet’s expense. With Zomário, they never do.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_YtgMyV",
         "heading_48VpQb",
         "richtext_Yiy6gp"
       ],
