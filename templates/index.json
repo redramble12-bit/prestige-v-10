@@ -91,16 +91,27 @@
         "collection-1": {
           "type": "collection",
           "settings": {
+            "collection": "dolcevita-linen-summer-sets",
+            "products_count": 8,
+            "title": "BESTSELLER",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        },
+        "collection_7L49pA": {
+          "type": "collection",
+          "settings": {
             "collection": "footwear",
             "products_count": 8,
-            "title": "",
+            "title": "LOAFER",
             "link_url": "",
             "link_text": "View all"
           }
         }
       },
       "block_order": [
-        "collection-1"
+        "collection-1",
+        "collection_7L49pA"
       ],
       "settings": {
         "color_scheme": "scheme-2",
