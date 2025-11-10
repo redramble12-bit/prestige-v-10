@@ -228,6 +228,58 @@
         "remove_vertical_spacing": true
       }
     },
+    "images_with_text_scroll_ACeigY": {
+      "type": "images-with-text-scroll",
+      "blocks": {
+        "image_with_text_fT8VRE": {
+          "type": "image_with_text",
+          "settings": {
+            "subheading": "",
+            "title": "#1",
+            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        },
+        "image_with_text_gdQ8er": {
+          "type": "image_with_text",
+          "settings": {
+            "subheading": "",
+            "title": "#2",
+            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        },
+        "image_with_text_XL4pyX": {
+          "type": "image_with_text",
+          "settings": {
+            "subheading": "",
+            "title": "#3",
+            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_fT8VRE",
+        "image_with_text_gdQ8er",
+        "image_with_text_XL4pyX"
+      ],
+      "name": "t:sections.images_with_text_scroll.presets.images_with_text_scroll.name",
+      "settings": {
+        "color_scheme": "",
+        "image_position": "start",
+        "text_alignment": "center",
+        "heading_tag": "h3",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "featured_collections_PRwT8b": {
       "type": "featured-collections",
       "blocks": {
@@ -285,6 +337,7 @@
     "image_with_text_qWMgd6",
     "image_with_text_e8yy7E",
     "image_with_text_qUaXKC",
+    "images_with_text_scroll_ACeigY",
     "featured_collections_PRwT8b",
     "recently_viewed_products_Lyb4NK"
   ]
