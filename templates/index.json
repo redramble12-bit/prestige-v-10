@@ -186,6 +186,36 @@
         "remove_vertical_spacing": true
       }
     },
+    "featured_collections_QFNeeY": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_jxpcVK": {
+          "type": "collection",
+          "settings": {
+            "collection": "cloudwool-sets-1",
+            "products_count": 8,
+            "title": "CLOUDWOOL®",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_jxpcVK"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "image-with-text-scroll": {
       "type": "images-with-text-scroll",
       "blocks": {
@@ -352,6 +382,7 @@
     "rich_text_rP9eWh",
     "featured-collections",
     "image_with_text_acanUw",
+    "featured_collections_QFNeeY",
     "image-with-text-scroll",
     "multiple-media-with-text",
     "newsletter",
