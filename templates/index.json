@@ -227,7 +227,7 @@
       ],
       "name": "t:sections.featured_collections.presets.featured_collections.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "hide_product_information": false,
         "stack_products": false,
@@ -289,6 +289,95 @@
         "items_per_row": 5,
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "image_with_text_9Cfb6z": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_F7c7j8": {
+          "type": "subheading",
+          "settings": {
+            "text": "MINIMAL & TIMELESS"
+          }
+        },
+        "heading_LNJYck": {
+          "type": "heading",
+          "settings": {
+            "text": "THE ESSENTIAL SNEAKER",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_bKbCRY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Versatile and sophisticated, it’s the modern man’s indispensable sneaker—for leisure time look or more formal occasions.</p>"
+          }
+        },
+        "button_D4fX6w": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "SHOP NOW",
+            "url": "shopify://products/ivory-essential-leather-sneaker",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_F7c7j8",
+        "heading_LNJYck",
+        "richtext_bKbCRY",
+        "button_D4fX6w"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/QWECEWQ.webp",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_8ttgHd": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_TKGMV6": {
+          "type": "subheading",
+          "settings": {
+            "text": "COMING SOON"
+          }
+        },
+        "heading_UGid4K": {
+          "type": "heading",
+          "settings": {
+            "text": "VETTIRO - EAU DE PARFUM",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_b6mRGa": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Fresh notes of Italian bergamot and fig leaf drift into a heart of vetiver and neroli wood. Grounded by cedar, oakmoss, tonka, and soft white musk. Housed in a dark mocha glass bottle. Defined by quiet elegance.</p><p>Available soon.<strong> </strong>Exclusively at Zomario.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_TKGMV6",
+        "heading_UGid4K",
+        "richtext_b6mRGa"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Zomario_f5fdcafe-665f-48c1-b491-7fe0065cff8e.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
       }
     },
     "image-with-text-scroll": {
@@ -459,6 +548,8 @@
     "image_with_text_acanUw",
     "featured_collections_QFNeeY",
     "logo_list_Ee3Gkb",
+    "image_with_text_9Cfb6z",
+    "image_with_text_8ttgHd",
     "image-with-text-scroll",
     "multiple-media-with-text",
     "newsletter",
