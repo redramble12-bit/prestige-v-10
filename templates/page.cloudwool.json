@@ -228,6 +228,29 @@
         "remove_vertical_spacing": true
       }
     },
+    "rich_text_MdeV34": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mdAjqY": {
+          "type": "heading",
+          "settings": {
+            "text": "OUR SUPPLY CHAIN TIERS",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mdAjqY"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "images_with_text_scroll_ACeigY": {
       "type": "images-with-text-scroll",
       "blocks": {
@@ -246,9 +269,22 @@
         "image_with_text_gdQ8er": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/2_e9ce870b-93f7-4c65-958a-f8ef144f4110.webp",
             "subheading": "",
-            "title": "#2",
-            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
+            "title": "FABRIC MANUFACTURING",
+            "content": "<p>This is the fabric production stage including the construction and dyeing of the fabrics and trims. This is usually where most of the carbon intensity is found as large amounts of energy are required forthe production of fabrics.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "solid"
+          }
+        },
+        "image_with_text_KCYhMp": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify://shop_images/3_46ca1cdd-6222-4239-a636-d7277274cbe2.webp",
+            "subheading": "",
+            "title": "YARN SPINNING",
+            "content": "<p>This is where the fibres are spun into yarns, prior to being manufactured into fabrics. This stage is energy intensive and is often done in a unit separate to the tier 2 production. We currently have 47% visibility of the suppliers involved at this stage for our main fabrics.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -259,8 +295,8 @@
           "settings": {
             "image": "shopify://shop_images/image_d2316c3e-d6a5-46b7-9bb1-77494f2ef132.jpg",
             "subheading": "",
-            "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
+            "title": "FIBRE PRODUCTION",
+            "content": "<p>Depending on the fibre type, this is where fibres are grown, farmed, or manufactured. It is often very difficult to trace the supply chain to this tier however we currently have 25% visibility of the suppliers involved at this stage for our main fabrics.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -270,11 +306,12 @@
       "block_order": [
         "image_with_text_fT8VRE",
         "image_with_text_gdQ8er",
+        "image_with_text_KCYhMp",
         "image_with_text_XL4pyX"
       ],
       "name": "t:sections.images_with_text_scroll.presets.images_with_text_scroll.name",
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-4",
         "image_position": "start",
         "text_alignment": "center",
         "heading_tag": "h3",
@@ -290,7 +327,7 @@
           "settings": {
             "collection": "luxury-knitwear",
             "products_count": 12,
-            "title": "DISCOVER COLLECTION",
+            "title": "CLOUDWOOL®",
             "link_url": "",
             "link_text": "View all"
           }
@@ -339,6 +376,7 @@
     "image_with_text_qWMgd6",
     "image_with_text_e8yy7E",
     "image_with_text_qUaXKC",
+    "rich_text_MdeV34",
     "images_with_text_scroll_ACeigY",
     "featured_collections_PRwT8b",
     "recently_viewed_products_Lyb4NK"
