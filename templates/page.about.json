@@ -250,6 +250,24 @@
         "vertical_spacing_factor": 0.2,
         "subheading": "Featured collection"
       }
+    },
+    "recently_viewed_products_Lyb4NK": {
+      "type": "recently-viewed-products",
+      "name": "t:sections.recently_viewed_products.presets.recently_viewed_products.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "color_scheme": "",
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_count": 9,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": ""
+      }
     }
   },
   "order": [
@@ -260,6 +278,7 @@
     "image_with_text_qWMgd6",
     "image_with_text_e8yy7E",
     "image_with_text_qUaXKC",
-    "featured_collections_PRwT8b"
+    "featured_collections_PRwT8b",
+    "recently_viewed_products_Lyb4NK"
   ]
 }
