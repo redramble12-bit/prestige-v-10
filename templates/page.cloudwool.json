@@ -128,21 +128,28 @@
     "image_with_text_qWMgd6": {
       "type": "image-with-text",
       "blocks": {
+        "subheading_AtBFDK": {
+          "type": "subheading",
+          "settings": {
+            "text": "UNPARALLELED DEGREE OF"
+          }
+        },
         "heading_frLyjf": {
           "type": "heading",
           "settings": {
-            "text": "MADE TO LAST",
+            "text": "SOFTNESS AND LIGHTNESS",
             "heading_tag": "h3"
           }
         },
         "richtext_GY43Qm": {
           "type": "richtext",
           "settings": {
-            "content": "<p>The world doesn’t need another fashion brand—it needs better solutions. In the UK alone, 350,000 tonnes of still-wearable clothing go to landfill each year. Our response? An antidote to mass production and overconsumption.</p><p>Sustainability is at the core of everything we do. By crafting timeless, high-quality pieces, we create a wardrobe that transcends seasons and trends, reducing the need for constant replacements.</p><p>Style and luxury shouldn’t come at the planet’s expense. With Zomário, they never do.</p>"
+            "content": "<p>With fibres measuring just 19.5 microns, Cloudwool® delivers an ultra-fine knit that balances warmth and airiness. Its clean finish allows colour to appear crisp and vivid, while its softness makes it ideal for lightweight layers across seasons.</p>"
           }
         }
       },
       "block_order": [
+        "subheading_AtBFDK",
         "heading_frLyjf",
         "richtext_GY43Qm"
       ],
