@@ -234,9 +234,10 @@
         "image_with_text_fT8VRE": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/5_56f70efb-4db1-454d-9246-37a5d71206c3.webp",
             "subheading": "",
-            "title": "#1",
-            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
+            "title": "GARMENT MANUFACTURING",
+            "content": "<p>This is the production step that involves final assembly of the garment before it is delivered to our warehouse. This is where most of the social impacts are felt as it is labour intensive and we have 100% visibility of all the factories working at this stage.</p>",
             "link_text": "",
             "link_url": "",
             "link_style": "solid"
@@ -256,6 +257,7 @@
         "image_with_text_XL4pyX": {
           "type": "image_with_text",
           "settings": {
+            "image": "shopify://shop_images/image_d2316c3e-d6a5-46b7-9bb1-77494f2ef132.jpg",
             "subheading": "",
             "title": "#3",
             "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
@@ -272,7 +274,7 @@
       ],
       "name": "t:sections.images_with_text_scroll.presets.images_with_text_scroll.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "image_position": "start",
         "text_alignment": "center",
         "heading_tag": "h3",
