@@ -23,6 +23,7 @@
     "text_font_size_desktop": 14,
     "button_letter_spacing": 18,
     "product_color_display": "hide",
+    "discount_mode": "percentage",
     "content_for_index": [],
     "blocks": {
       "17920835415960095625": {
