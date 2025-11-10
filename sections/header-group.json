@@ -19,10 +19,24 @@
           "settings": {
             "text": "FREE INSURED SHIPPING ON ALL ORDERS"
           }
+        },
+        "message_gmyJiy": {
+          "type": "message",
+          "settings": {
+            "text": "14-DAY RETURNS & EXCHANGES POLICY"
+          }
+        },
+        "message_68nLrx": {
+          "type": "message",
+          "settings": {
+            "text": "ENJOY 50% OFF + TIERED DISCOUNTS"
+          }
         }
       },
       "block_order": [
-        "message-1"
+        "message-1",
+        "message_gmyJiy",
+        "message_68nLrx"
       ],
       "settings": {
         "color_scheme": "",
