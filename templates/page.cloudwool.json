@@ -24,9 +24,9 @@
         "image_jY4KUd": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/VSVAEVAC.webp",
-            "subheading": "OUR STORY",
-            "title": "AN ITALIAN LUXURY MENSWEAR BRAND",
+            "image": "shopify://shop_images/ACASCA.webp",
+            "subheading": "",
+            "title": "CLOUDWOOL®",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -67,21 +67,14 @@
     "rich_text_VgmfFE": {
       "type": "rich-text",
       "blocks": {
-        "subheading_Pcby4T": {
-          "type": "subheading",
-          "settings": {
-            "text": "since 1987"
-          }
-        },
         "richtext_YNBazr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Zomário is a family business that has quickly become a symbol of timeless elegance, blending innovation with tradition to create a perfect harmony of class and comfort for the modern man.</p>"
+            "content": "<p>Merino wool has stood the test of centuries — prized for its softness, breathability, and natural performance. Few fibres combine comfort and function so effortlessly.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_Pcby4T",
         "richtext_YNBazr"
       ],
       "name": "t:sections.rich_text.presets.rich_text.name",
@@ -96,21 +89,28 @@
     "image_with_text_WLMERC": {
       "type": "image-with-text",
       "blocks": {
+        "subheading_cGGdqD": {
+          "type": "subheading",
+          "settings": {
+            "text": "Fibre perfection"
+          }
+        },
         "heading_gQRp7q": {
           "type": "heading",
           "settings": {
-            "text": "REDEFINED LUXURY",
+            "text": "refined by nature",
             "heading_tag": "h3"
           }
         },
         "richtext_Tye3Cp": {
           "type": "richtext",
           "settings": {
-            "content": "<p>At Zomário, we create refined everyday wear for the discerning customer who values finest craftsmanship, quiet elegance, and timeless design. Rooted in a European design perspective, our collections reflect clean structure, purposeful detail, and a commitment to lasting quality.</p><p>We believe true luxury isn’t loud — it’s felt in the cut of a collar, the texture of natural fibres, and the way a piece moves with you. Our garments are built to endure, designed to simplify, and tailored to elevate the everyday without distraction.</p><p><em>No flashy logos. Just the quiet satisfaction of wearing something truly exceptional.</em></p>"
+            "content": "<p>Cloudwool® is spun from premium Australian Merino fibres selected for their exceptional softness, lightness, and structure. Naturally breathable and gentle on the skin, this refined wool offers everyday comfort with a luxurious hand-feel.</p>"
           }
         }
       },
       "block_order": [
+        "subheading_cGGdqD",
         "heading_gQRp7q",
         "richtext_Tye3Cp"
       ],
@@ -118,7 +118,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/8_104d52d7-b056-4202-932c-3f3e07597c3f.webp",
+        "image": "shopify://shop_images/22_69020ccc-ba28-4ca4-a0cf-c16211659cbf.webp",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
