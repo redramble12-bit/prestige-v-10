@@ -157,6 +157,38 @@
         "remove_vertical_spacing": true
       }
     },
+    "image_with_text_e8yy7E": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QCywCp": {
+          "type": "heading",
+          "settings": {
+            "text": "NATURAL MATERIALS THAT MATTER",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_daMiEM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Our signature fabrics — including <a href=\"https://luciente-online.com/pages/poshwool\" title=\"CLOUDWOOL\">Cloudwool®</a>, <a href=\"https://luciente-online.com/pages/pure-cashmere\" title=\"PURE CASHMERE\">Alxa Cashmere</a>, <a href=\"https://luciente-online.com/pages/natural-linen\" title=\"NATURAL LINEN\">Linen</a> and <a href=\"https://luciente-online.com/pages/velutti-suede\" title=\"SUPPLE SHEEP SUEDE\">Supple Sheep Suede</a> — are chosen for comfort, structure, and tactile elegance.</p><p>Every fibre we select is sourced with intention, offering a balance of breathability, durability, and quiet luxury.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QCywCp",
+        "richtext_daMiEM"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "image": "shopify://shop_images/10_e8668680-364e-4c4e-9ab4-c20e45d43d32.webp",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
     "image_with_text_qUaXKC": {
       "type": "image-with-text",
       "blocks": {
@@ -196,6 +228,7 @@
     "rich_text_VgmfFE",
     "image_with_text_WLMERC",
     "image_with_text_qWMgd6",
+    "image_with_text_e8yy7E",
     "image_with_text_qUaXKC"
   ]
 }
