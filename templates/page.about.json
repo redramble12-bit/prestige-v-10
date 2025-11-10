@@ -69,14 +69,7 @@
         "subheading_Pcby4T": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_Xbrhyq": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1"
+            "text": "since 1987"
           }
         },
         "richtext_YNBazr": {
@@ -88,7 +81,6 @@
       },
       "block_order": [
         "subheading_Pcby4T",
-        "heading_Xbrhyq",
         "richtext_YNBazr"
       ],
       "name": "t:sections.rich_text.presets.rich_text.name",
@@ -99,11 +91,44 @@
         "text_position": "center",
         "remove_vertical_spacing": false
       }
+    },
+    "image_with_text_WLMERC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gQRp7q": {
+          "type": "heading",
+          "settings": {
+            "text": "REDEFINED LUXURY",
+            "heading_tag": "h3"
+          }
+        },
+        "richtext_Tye3Cp": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>At Zomário, we create refined everyday wear for the discerning customer who values finest craftsmanship, quiet elegance, and timeless design. Rooted in a European design perspective, our collections reflect clean structure, purposeful detail, and a commitment to lasting quality.</p><p>We believe true luxury isn’t loud — it’s felt in the cut of a collar, the texture of natural fibres, and the way a piece moves with you. Our garments are built to endure, designed to simplify, and tailored to elevate the everyday without distraction.</p><p><em>No flashy logos. Just the quiet satisfaction of wearing something truly exceptional.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gQRp7q",
+        "richtext_Tye3Cp"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/DECEWVEWE.webp",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
     }
   },
   "order": [
     "main",
     "slideshow_HTNemq",
-    "rich_text_VgmfFE"
+    "rich_text_VgmfFE",
+    "image_with_text_WLMERC"
   ]
 }
