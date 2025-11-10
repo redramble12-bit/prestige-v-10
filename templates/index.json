@@ -9,16 +9,34 @@
  */
 {
   "sections": {
-    "custom_liquid_8EhCyR": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+    "rich_text_rP9eWh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yEeFn4": {
+          "type": "heading",
+          "settings": {
+            "text": "OUR biggest Sale is Live",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_384PQ8": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Zomario is entering a new era of growth. As we expand into a larger atelier and partner with elite manufacturers, many of our current designs will soon be retired. This marks a rare opportunity to own our iconic pieces at 50% off.</p><p>Extra 10% OFF 2 | 20% OFF 3 | 30% OFF 4+ items</p><p>No code needed – discounts apply automatically in cart</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yEeFn4",
+        "richtext_384PQ8"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div id=\"shopify-section-sections--24714837295430__newsletter-popup\" class=\"shopify-section shopify-section-group-overlay-group shopify-section--popup\"><newsletter-popup class=\"pop-in newsletter-popup color-scheme color-scheme--scheme-2\" title=\"Newsletter popup\" only-once=\"\" apparition-delay=\"15\" handle-editor-events=\"\" role=\"dialog\" open=\"\" style=\"display: block; opacity: 1; transform: translateY(0px);\">\n      <dialog-close-button class=\"contents\">\n        <button class=\"pop-in__close-button tap-area\">\n          <span class=\"sr-only\">Close</span><svg aria-hidden=\"true\" focusable=\"false\" fill=\"none\" width=\"16\" class=\"icon icon-close\" viewBox=\"0 0 16 16\">\n      <path d=\"m1 1 14 14M1 15 15 1\" stroke=\"currentColor\" stroke-width=\"1\"></path>\n    </svg>\n\n  </button>\n      </dialog-close-button>\n\n      <div class=\"v-stack gap-8\"><div class=\"v-stack gap-4 text-center\"><p class=\"h4\">LUCIÉNTE PRESTIGE</p><div class=\"prose\">\n                Receive our newsletter and discover our world, collections, private sales and latest news from us.\n              </div></div><form method=\"post\" action=\"/contact#newsletter-sections--24714837295430__newsletter-popup\" id=\"newsletter-sections--24714837295430__newsletter-popup\" accept-charset=\"UTF-8\" class=\"form\"><input type=\"hidden\" name=\"form_type\" value=\"customer\"><input type=\"hidden\" name=\"utf8\" value=\"✓\"><div class=\"fieldset\">\n                <input type=\"hidden\" name=\"contact[tags]\" value=\"newsletter\"><div class=\"form-control\"><input id=\"input--sections--24714837295430__newsletter-popup--contactemail\" class=\"input\" type=\"email\" dir=\"ltr\" name=\"contact[email]\" placeholder=\"E-mail\" autocomplete=\"email\" required=\"\"><label for=\"input--sections--24714837295430__newsletter-popup--contactemail\" class=\"floating-label text-xs\">E-mail</label></div></div>\n<button type=\"submit\" class=\"button\">Subscribe</button></form></div>\n    </newsletter-popup>\n</div>",
-        "text_alignment": "center"
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
       }
     },
     "slideshow": {
@@ -65,6 +83,18 @@
         "cycle_speed": 5,
         "background": "#000000",
         "controls_color": "#ffffff"
+      }
+    },
+    "custom_liquid_8EhCyR": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<section id=\"shopify-section-template--24714836672838__rich_text_9LGX9M\" class=\"shopify-section shopify-section--rich-text\"><div class=\"color-scheme color-scheme--scheme-4 color-scheme--bg-316da0f40ad6f112836501e9bcc88891 section-spacing bordered-section\">\n    <div class=\"container container--lg\">\n      <div class=\"prose text-center\"><p class=\"h5\">OUR biggest Sale is Live</p><div><p>Luciénte is entering a new era of growth. As we expand into a larger atelier and partner with elite manufacturers, many of our current designs will soon be retired. This marks a rare opportunity to own our iconic pieces at 50% off.</p><p>Extra 10% OFF 2 | 20% OFF 3 | 30% OFF 4+ items</p><p>No code needed – discounts apply automatically in cart</p></div></div>\n    </div>\n  </div>\n</section>",
+        "text_alignment": "center"
       }
     },
     "featured-collections": {
@@ -473,8 +503,9 @@
     }
   },
   "order": [
-    "custom_liquid_8EhCyR",
+    "rich_text_rP9eWh",
     "slideshow",
+    "custom_liquid_8EhCyR",
     "featured-collections",
     "multi-column",
     "collection-list",
