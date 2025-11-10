@@ -229,7 +229,7 @@
           "settings": {
             "collection": "luxury-knitwear",
             "products_count": 12,
-            "title": "",
+            "title": "DISCOVER COLLECTION",
             "link_url": "",
             "link_text": "View all"
           }
@@ -242,13 +242,13 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
-        "hide_product_information": false,
+        "hide_product_information": true,
         "stack_products": true,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 0.2,
         "vertical_spacing_factor": 0.2,
-        "subheading": "Featured collection"
+        "subheading": ""
       }
     },
     "recently_viewed_products_Lyb4NK": {
