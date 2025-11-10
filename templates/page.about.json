@@ -213,7 +213,7 @@
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "color_scheme": "scheme-2",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "image": "shopify://shop_images/24d274da-84c4-4f57-a41b-a1c6083a34df.png",
         "reveal_on_scroll": true,
         "image_position": "end",
