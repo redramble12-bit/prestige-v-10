@@ -65,10 +65,18 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "title": "Newsletter",
+            "title": "Zomário Prestige",
             "content": "<p>Sign up to our newsletter to receive exclusive offers.</p>",
             "button_background": "",
             "button_text_color": ""
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "FAIRLY PRICED LUXURY MENSWEAR",
+            "content": "<p>Zomário creates ready-to-wear clothing, footwear and accessories with expert craftsmanship and finest natural materials, delivering high-end quality without the inflated price tag.<br/></p><p><em>No flashy logos. Just the quiet satisfaction of wearing something truly exceptional.</em></p>",
+            "enable_follow_on_shop": true
           }
         },
         "links": {
@@ -79,19 +87,20 @@
             "menu_title": ""
           }
         },
-        "text": {
+        "text_FKALNz": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "GET IN TOUCH",
+            "content": "<p>E-mail: <em>contact@zomario.com</em></p>",
+            "enable_follow_on_shop": false
           }
         }
       },
       "block_order": [
         "newsletter",
+        "text",
         "links",
-        "text"
+        "text_FKALNz"
       ],
       "settings": {
         "color_scheme": "",
