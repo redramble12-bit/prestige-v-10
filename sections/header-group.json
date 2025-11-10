@@ -17,7 +17,7 @@
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "Announce something here"
+            "text": "FREE INSURED SHIPPING ON ALL ORDERS"
           }
         }
       },
@@ -26,7 +26,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "enable_sticky": false,
+        "enable_sticky": true,
         "autoplay": true,
         "cycle_speed": 5,
         "desktop_font_size": 11,
