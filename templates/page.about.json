@@ -220,6 +220,36 @@
         "content_width": "sm",
         "remove_vertical_spacing": true
       }
+    },
+    "featured_collections_PRwT8b": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_VCGTYE": {
+          "type": "collection",
+          "settings": {
+            "collection": "luxury-knitwear",
+            "products_count": 10,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_VCGTYE"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 0.2,
+        "vertical_spacing_factor": 0.2,
+        "subheading": "Featured collection"
+      }
     }
   },
   "order": [
@@ -229,6 +259,7 @@
     "image_with_text_WLMERC",
     "image_with_text_qWMgd6",
     "image_with_text_e8yy7E",
-    "image_with_text_qUaXKC"
+    "image_with_text_qUaXKC",
+    "featured_collections_PRwT8b"
   ]
 }
