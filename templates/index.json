@@ -40,6 +40,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/VSVAEVAC.webp",
+            "mobile_image": "shopify://shop_images/ab299611-0ffe-4b9f-9175-ac202365de22.jpg",
             "subheading": "Tell your story",
             "title": "Image slide",
             "mobile_text_position": "place-self-center text-center",
@@ -59,7 +61,7 @@
             "background_opacity": 50,
             "text_color": "#ffffff",
             "border_color": "",
-            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2) 0%, rgba(4, 4, 4, 0.65) 100%)"
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0.2), rgba(4, 4, 4, 0.65) 100%)"
           }
         }
       },
