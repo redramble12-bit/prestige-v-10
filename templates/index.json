@@ -494,25 +494,6 @@
         "content": "",
         "popover_title": "Shop the look"
       }
-    },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "blog": "",
-        "posts_count": 3,
-        "stack_on_mobile": false,
-        "show_category": true,
-        "show_date": false,
-        "show_excerpt": true,
-        "show_read_more": true,
-        "subheading": "",
-        "title": "Blog posts",
-        "content": "",
-        "button_link": "shopify://pages/contact",
-        "button_text": "View all"
-      }
     }
   },
   "order": [
@@ -525,7 +506,6 @@
     "image_with_text_9Cfb6z",
     "image_with_text_8ttgHd",
     "multi_column_6trqqH",
-    "shop-the-look",
-    "blog-posts"
+    "shop-the-look"
   ]
 }
