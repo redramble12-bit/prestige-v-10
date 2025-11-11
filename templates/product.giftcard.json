@@ -12,6 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "vendor_Y7qzzt": {
+          "type": "vendor",
+          "settings": {}
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -94,6 +98,7 @@
         }
       },
       "block_order": [
+        "vendor_Y7qzzt",
         "title",
         "liquid_3kQnrE",
         "price",
