@@ -21,14 +21,14 @@
         "heading_87y767": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "LUXURY KNITWEAR FOR MEN",
             "heading_tag": "h1"
           }
         },
         "richtext_3iRnAj": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>No flashy logos. Just the finest natural materials and the quiet satisfaction of wearing something truly exceptional.</em></p>"
           }
         }
       },
@@ -42,7 +42,7 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "content_width": "sm",
-        "text_position": "center",
+        "text_position": "start",
         "remove_vertical_spacing": false
       }
     },
