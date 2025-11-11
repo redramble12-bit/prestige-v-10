@@ -37,11 +37,11 @@
         "icon-3": {
           "type": "item",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "picto-credit-card",
             "icon_width": 24,
             "mobile_icon_width": 24,
-            "title": "Top-notch support",
-            "content": "<p>Short content about your store</p>"
+            "title": "SECURE PAYMENTS",
+            "content": "<p>Pay securely with Credit Card, PayPal, ShopPay, GooglePay and ApplePay</p>"
           }
         },
         "icon-4": {
