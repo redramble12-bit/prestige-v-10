@@ -22,10 +22,21 @@
     "text_font": "univers_next_n4",
     "text_font_size_desktop": 14,
     "button_letter_spacing": 18,
+    "currency_code_enabled": false,
     "product_image_aspect_ratio": "tall",
     "product_color_display": "hide",
     "discount_mode": "percentage",
     "favicon": "shopify://shop_images/N_C.png",
+    "sections": {
+      "main-gift-card": {
+        "type": "main-gift-card",
+        "settings": {
+          "color_scheme": "scheme-1",
+          "image": "shopify://shop_images/zomario.com.png",
+          "show_qr_code": false
+        }
+      }
+    },
     "content_for_index": [],
     "blocks": {
       "17920835415960095625": {
