@@ -16,9 +16,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/VSVAEVAC.webp",
-            "mobile_image": "shopify://shop_images/ab299611-0ffe-4b9f-9175-ac202365de22.jpg",
             "subheading": "50% OFF + TIERED DISCOUNTS",
-            "title": "WAREHOUSE SALE",
+            "title": "PRE BLACK FRIDAY SALE",
             "mobile_text_position": "place-self-end-start text-start",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
