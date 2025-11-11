@@ -157,7 +157,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "hide_product_information": false,
         "stack_products": false,
@@ -170,11 +170,42 @@
         "title": "Related products",
         "content": ""
       }
+    },
+    "featured_collections_AiNUiH": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_tWAPGP": {
+          "type": "collection",
+          "settings": {
+            "collection": "cloudwool-sets-1",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_tWAPGP"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Featured collection"
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_GdKDQx",
-    "related-products"
+    "related-products",
+    "featured_collections_AiNUiH"
   ]
 }
