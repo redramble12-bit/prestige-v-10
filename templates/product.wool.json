@@ -159,9 +159,9 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "recommendations_count": 10,
+        "hide_product_information": true,
+        "stack_products": true,
+        "recommendations_count": 8,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
@@ -171,34 +171,22 @@
         "content": ""
       }
     },
-    "featured_collections_AiNUiH": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_tWAPGP": {
-          "type": "collection",
-          "settings": {
-            "collection": "cloudwool-sets-1",
-            "products_count": 8,
-            "title": "",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_tWAPGP"
-      ],
-      "name": "t:sections.featured_collections.presets.featured_collections.name",
+    "recently_viewed_products_tHBwem": {
+      "type": "recently-viewed-products",
+      "name": "t:sections.recently_viewed_products.presets.recently_viewed_products.name",
       "settings": {
-        "color_scheme": "",
         "separate_section_with_border": true,
-        "hide_product_information": false,
+        "color_scheme": "scheme-2",
+        "hide_product_information": true,
         "stack_products": false,
+        "products_count": 9,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Featured collection"
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": ""
       }
     }
   },
@@ -206,6 +194,6 @@
     "main",
     "image_with_text_GdKDQx",
     "related-products",
-    "featured_collections_AiNUiH"
+    "recently_viewed_products_tHBwem"
   ]
 }
