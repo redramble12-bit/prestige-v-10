@@ -52,6 +52,17 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "accordion_86gDNJ": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Size chart",
+            "content": "",
+            "liquid": "",
+            "page": "size-chart"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -101,6 +112,7 @@
         "separator",
         "variant_picker",
         "quantity_selector",
+        "accordion_86gDNJ",
         "description",
         "buy_buttons",
         "liquid_7J6nQ4",
