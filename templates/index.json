@@ -389,7 +389,7 @@
             "title": "ABOUT",
             "heading_tag": "h6",
             "content": "<p>Zomario designs everyday essentials with a focus on craftsmanship, clean silhouettes, and premium natural materials — including Cloudwool®, Cashmere and Supple Sheep Suede. Our pieces are made to last, feel good, and elevate the everyday through quiet, timeless design. — all offered without an inflated price point.<br/><br/></p>",
-            "link_url": "shopify://pages/contact",
+            "link_url": "shopify://pages/about",
             "link_text": "Learn more"
           }
         },
@@ -400,7 +400,7 @@
             "title": "CLOUDWOOL®",
             "heading_tag": "h6",
             "content": "<p>Cloudwool® combines ultrafine softness with lightweight warmth. Developed using carefully selected Australian wool fibers, it reflects a modern approach to knitwear — blending high-quality natural material with comfort and clarity. The result is a breathable, refined knit built for year-round wear.</p>",
-            "link_url": "shopify://pages/contact",
+            "link_url": "shopify://pages/cloudwool®",
             "link_text": "Learn more"
           }
         },
@@ -411,7 +411,7 @@
             "title": "LINEN",
             "heading_tag": "h6",
             "content": "<p>Zomario’s linen is woven from responsibly sourced European flax and selected for its lightness, breathability, and soft, textured feel. Naturally cooling and easy to wear, it brings comfort and calm structure to warmer days. Whether styled for relaxed escapes or everyday use, it offers refined versatility — elevated in quality, and grounded in nature.<br/><br/></p>",
-            "link_url": "shopify://pages/contact",
+            "link_url": "shopify://pages/linen",
             "link_text": "Learn more"
           }
         },
@@ -422,8 +422,8 @@
             "title": "CASHMERE",
             "heading_tag": "h6",
             "content": "<p>In the remote desert region of Alxa, Inner Mongolia, a rare and exquisite treasure is found. Known for producing some of the world’s finest cashmere, Alxa is home to a unique breed of goats that grow an exceptionally soft undercoat. This undercoat — a thin fleece layer around the roots of the goat's hair — grows during the coldest months and naturally sheds in spring, allowing for ethical and sustainable collection.</p>",
-            "link_url": "",
-            "link_text": ""
+            "link_url": "shopify://pages/cashmere",
+            "link_text": "Learn more"
           }
         },
         "image_with_text_6eC4kW": {
@@ -433,7 +433,7 @@
             "title": "Suède",
             "heading_tag": "h6",
             "content": "<p>The Zomario Sheep Suede is soft, matte, and smooth to the touch. Treated with a special oiling technique, it’s made to hold its colour and develop depth over time. It feels lived-in from the first wear, and only gets better with age.<br/><br/></p>",
-            "link_url": "shopify://pages/contact",
+            "link_url": "shopify://pages/suede",
             "link_text": "Learn more"
           }
         }
