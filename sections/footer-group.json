@@ -97,12 +97,21 @@
             "show_menu_title": true,
             "menu_title": ""
           }
+        },
+        "text_LgmFRa": {
+          "type": "text",
+          "settings": {
+            "title": "GET IN TOUCH",
+            "content": "<p>E-mail: <em>contact@zomario.com</em></p>",
+            "enable_follow_on_shop": true
+          }
         }
       },
       "block_order": [
         "newsletter",
         "text",
-        "links"
+        "links",
+        "text_LgmFRa"
       ],
       "settings": {
         "color_scheme": "",
