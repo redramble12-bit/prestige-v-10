@@ -82,6 +82,14 @@
             "button_text_color": ""
           }
         },
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "FAIRLY PRICED LUXURY MENSWEAR",
+            "content": "<p>Zomário creates ready-to-wear clothing, footwear and accessories with expert craftsmanship and finest natural materials, delivering high-end quality without the inflated price tag.<br/></p><p><em>No flashy logos. Just the quiet satisfaction of wearing something truly exceptional.</em></p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
@@ -89,20 +97,12 @@
             "show_menu_title": true,
             "menu_title": ""
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
         "newsletter",
-        "links",
-        "text"
+        "text",
+        "links"
       ],
       "settings": {
         "color_scheme": "",
