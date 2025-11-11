@@ -122,6 +122,38 @@
         "max_image_zoom_level": 3
       }
     },
+    "image_with_text_GdKDQx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_K8JNFy": {
+          "type": "heading",
+          "settings": {
+            "text": "MEN'S EXTRAFINE MERINO KNITWEAR",
+            "heading_tag": "h4"
+          }
+        },
+        "richtext_G8GHih": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Crafted from our exclusive <a href=\"/pages/cloudwool®\" title=\"CLOUDWOOL®\">Cloudwool™</a>— a signature fabric developed solely for Luciénte. Knitted from extrafine Australian Merino wool, with fibres measuring just 19.5 microns, these pieces deliver remarkable softness, breathability, and gentle warmth. Naturally lightweight and temperature-regulating, it’s built for comfort across seasons.</p><p><a href=\"/pages/cloudwool®\" title=\"CLOUDWOOL®\">Learn more</a> | <a href=\"/collections/luxury-knitwear\" title=\"luxury knitwear\">Explore collection</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_K8JNFy",
+        "richtext_G8GHih"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/43_5b0f56dc-eac3-4223-b016-9250ad4c956b.webp",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -142,6 +174,7 @@
   },
   "order": [
     "main",
+    "image_with_text_GdKDQx",
     "related-products"
   ]
 }
