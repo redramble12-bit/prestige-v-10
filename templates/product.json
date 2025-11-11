@@ -38,30 +38,42 @@
           "type": "separator",
           "settings": {}
         },
+        "modal_epYfCp": {
+          "type": "modal",
+          "settings": {
+            "button_title": "Button title",
+            "button_style": "link",
+            "stretch_button": false,
+            "button_background": "",
+            "button_text_color": "",
+            "modal_title": "Modal title",
+            "modal_content": "<p>Write some content that will appear in a modal</p>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
             "hide_sold_out_variants": false,
             "selector_style": "block",
             "swatch_selector_style": "block_swatch",
-            "variant_image_options": "Size chart",
+            "variant_image_options": "",
             "size_chart_page": "size-chart"
+          }
+        },
+        "product_variations_YYVdpJ": {
+          "type": "product_variations",
+          "settings": {
+            "option_name": "1",
+            "option_value_metafield": "",
+            "products": [
+              "almond-contrast-textured-polo"
+            ],
+            "selector_style": "swatch"
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
-        },
-        "accordion_86gDNJ": {
-          "type": "accordion",
-          "settings": {
-            "show_below_gallery": false,
-            "icon": "none",
-            "title": "Size chart",
-            "content": "",
-            "liquid": "",
-            "page": "size-chart"
-          }
         },
         "description": {
           "type": "description",
@@ -110,9 +122,10 @@
         "price",
         "payment_terms",
         "separator",
+        "modal_epYfCp",
         "variant_picker",
+        "product_variations_YYVdpJ",
         "quantity_selector",
-        "accordion_86gDNJ",
         "description",
         "buy_buttons",
         "liquid_7J6nQ4",
