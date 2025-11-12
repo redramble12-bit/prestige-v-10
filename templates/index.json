@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/VSVAEVAC.webp",
             "subheading": "50% OFF + TIERED DISCOUNTS",
             "title": "PRE BLACK FRIDAY SALE",
-            "mobile_text_position": "place-self-end-start text-start",
+            "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "Shop now",
