@@ -9,43 +9,41 @@
  */
 {
   "sections": {
-    "faq": {
-      "type": "faq",
+    "rich_text_Ck9baR": {
+      "type": "rich-text",
       "blocks": {
-        "question-1": {
-          "type": "question",
+        "subheading_rFdYHN": {
+          "type": "subheading",
           "settings": {
-            "question": "Warehouse Sale Details",
-            "answer": "<p>For the first time in our history, we are offering an exclusive sale as we prepare for our next chapter. Zomario is growing, and with this growth comes a transition—we are moving to a larger warehouse and working with new manufacturing partners to further elevate our quality. As a result, many of our current designs will be discontinued, making this your final opportunity to own them.</p><p>This sale is more than just an opportunity to shop—it’s our way of expressing our deepest gratitude to you, our customers. None of this would be possible without your trust and support.</p><p>To show appreciation for our community, we are offering 50% OFF. Additionally, we are introducing tiered discounts for even greater savings:</p><ul><li>Extra 10% off when purchasing 2 item</li><li>Extra 20% off when purchasing 3 items </li><li>Extra 30% off when purchasing 4+ items</li></ul><p>  No code needed – discounts apply automatically after adding items to cart.</p><p>This is our last remaining stock, and once it’s gone, it will not be restocked.</p><p>As always, returns are possible within 14 days. If the item you wish to exchange is still in stock, we will gladly process an exchange.</p><p>Zomario has always been dedicated to delivering exceptional quality at an accessible price, and for this limited time, our prices are even better. Don’t miss this rare opportunity.</p>"
+            "text": ""
           }
         },
-        "question-2": {
-          "type": "question",
+        "heading_MqW4CV": {
+          "type": "heading",
           "settings": {
-            "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "text": "Care instructions",
+            "heading_tag": "h1"
           }
         },
-        "question-3": {
-          "type": "question",
+        "richtext_PWVCmK": {
+          "type": "richtext",
           "settings": {
-            "question": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "content": "<p>WASHING:</p><ul><li>Hand wash or use a gentle machine wash cycle with cold water and mild wool detergent.</li><li>Avoid harsh soaps and fabric softeners, as they can damage the fibers.</li><li>Use a mesh laundry bag if machine washing to reduce friction and stretching.</li></ul>"
           }
         }
       },
       "block_order": [
-        "question-1",
-        "question-2",
-        "question-3"
+        "subheading_rFdYHN",
+        "heading_MqW4CV",
+        "richtext_PWVCmK"
       ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "show_categories": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": ""
+        "content_width": "lg",
+        "text_position": "center",
+        "remove_vertical_spacing": false
       }
     },
     "recently_viewed_products_PkNCKi": {
@@ -161,9 +159,9 @@
         "nav_btn_hover_bg": "rgba(0,0,0,0)",
         "nav_border": "rgba(0,0,0,0)",
         "nav_border_hover": "rgba(0,0,0,0)",
-        "nav_icon": "#FFFFFF",
-        "nav_hover_icon": "#FFFFFF",
-        "background_color": "#FFFFFF",
+        "nav_icon": "#ffffff",
+        "nav_hover_icon": "#ffffff",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -180,7 +178,7 @@
     }
   },
   "order": [
-    "faq",
+    "rich_text_Ck9baR",
     "recently_viewed_products_PkNCKi",
     "ss_instafeed_2_eAgC4d"
   ]
