@@ -12,28 +12,21 @@
     "rich_text_Ck9baR": {
       "type": "rich-text",
       "blocks": {
-        "subheading_rFdYHN": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
         "heading_MqW4CV": {
           "type": "heading",
           "settings": {
-            "text": "Care instructions",
+            "text": "shipping policy",
             "heading_tag": "h1"
           }
         },
         "richtext_PWVCmK": {
           "type": "richtext",
           "settings": {
-            "content": "<p>WASHING:</p><ul><li>Hand wash or use a gentle machine wash cycle with cold water and mild wool detergent.</li><li>Avoid harsh soaps and fabric softeners, as they can damage the fibers.</li><li>Use a mesh laundry bag if machine washing to reduce friction and stretching.</li></ul><p></p><p>DRYING: </p><ul><li>Lay flat to dry on a clean towel to maintain shape.</li><li>Keep away from direct heat and sunlight to prevent shrinkage or fading.</li><li>Do not tumble dry, as high heat can damage wool fibers.</li></ul><p>STORAGE:</p><ul><li>Store in a cool, dry place to prevent mildew or odor buildup. </li><li>Use cedar blocks or lavender sachets to repel moths naturally.</li><li>Fold instead of hanging to maintain the garment’s shape and prevent stretching.</li></ul>"
+            "content": "<p><strong>Shipping Process</strong></p><p>We require between 1–2 working days on average to fulfill your order and transport it to our carrier’s sort facility. Some items may take longer especially around major holidays (up to 5 days), or if your order includes popular items experiencing stock availability issues.</p><p>Once your order has begun processing through our shipping department we are unable to make any changes (including address changes). We will only ship to the address provided at check-out.</p><p>We only ship during business days and do not ship on Saturdays, Sundays or holidays. Once your order has shipped, you will receive a Shipping Confirmation email.</p><p>For orders with multiple items, products may be shipped separately and received on different dates due to the difference in manufacturing partners’ locations.</p><p></p><p><strong>Tracking</strong></p><p>All orders are processed with tracking numbers. You will receive an email with the tracking number when your order is dispatched to the carrier’s sort facility.</p><p>For some shipping companies, it can take several days for the tracking information to update in the system. If your order was placed more than 5 business days ago and there is still no information on your tracking number, please contact us.</p><p></p><p><strong>Deliveries</strong></p><p>Shipping time varies by country or region. <em>Specific delivery dates are not provided nor guaranteed.</em> These are our estimates for your reference:</p><p></p>"
           }
         }
       },
       "block_order": [
-        "subheading_rFdYHN",
         "heading_MqW4CV",
         "richtext_PWVCmK"
       ],
