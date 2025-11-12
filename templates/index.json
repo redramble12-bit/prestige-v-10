@@ -494,6 +494,112 @@
         "content": "",
         "popover_title": "Shop the look"
       }
+    },
+    "ss_instafeed_2_Q7RXtL": {
+      "type": "ss-instafeed-2",
+      "blocks": {
+        "slide_cmBH6y": {
+          "type": "slide",
+          "settings": {
+            "url": ""
+          }
+        },
+        "slide_EakQzW": {
+          "type": "slide",
+          "settings": {
+            "url": ""
+          }
+        },
+        "slide_Kh7rW9": {
+          "type": "slide",
+          "settings": {
+            "url": ""
+          }
+        },
+        "slide_Br3jtU": {
+          "type": "slide",
+          "settings": {
+            "url": ""
+          }
+        },
+        "slide_ffdFmQ": {
+          "type": "slide",
+          "settings": {
+            "url": ""
+          }
+        },
+        "slide_GjN3pP": {
+          "type": "slide",
+          "settings": {
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_cmBH6y",
+        "slide_EakQzW",
+        "slide_Kh7rW9",
+        "slide_Br3jtU",
+        "slide_ffdFmQ",
+        "slide_GjN3pP"
+      ],
+      "name": "SS - Instafeed #2",
+      "settings": {
+        "top": "",
+        "top_custom": false,
+        "top_font": "josefin_sans_n4",
+        "top_size": 13,
+        "top_height": 130,
+        "top_align": "center",
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_mt": 12,
+        "subheading": "<h3><strong>TAG US TO GET FEATURED</strong></h3>",
+        "subheading_custom": true,
+        "subheading_font": "montserrat_n4",
+        "subheading_size": 12,
+        "subheading_height": 130,
+        "subheading_align": "center",
+        "subheading_mt": 12,
+        "slider_mt": 60,
+        "slider_row": "6",
+        "slider_row_mobile": "1",
+        "slider_gap": 20,
+        "slider_gap_mobile": 32,
+        "autoplay": false,
+        "autoplay_speed": 3,
+        "nav_size": 40,
+        "nav_size_mobile": 30,
+        "hide_nav": true,
+        "hide_nav_mobile": false,
+        "image_radius": 0,
+        "top_color": "#e69e6c",
+        "heading_color": "#746661",
+        "subheading_color": "#1c1c1c",
+        "nav_btn_bg": "#FFFFFF",
+        "nav_btn_hover_bg": "#e69e6c",
+        "nav_border": "#e69e6c",
+        "nav_border_hover": "#e69e6c",
+        "nav_icon": "#e69e6c",
+        "nav_hover_icon": "#FFFFFF",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
@@ -506,6 +612,7 @@
     "image_with_text_9Cfb6z",
     "image_with_text_8ttgHd",
     "multi_column_6trqqH",
-    "shop-the-look"
+    "shop-the-look",
+    "ss_instafeed_2_Q7RXtL"
   ]
 }
