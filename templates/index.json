@@ -573,7 +573,7 @@
         "subheading_mt": 12,
         "slider_mt": 60,
         "slider_row": "3",
-        "slider_row_mobile": "3",
+        "slider_row_mobile": "2",
         "slider_gap": 8,
         "slider_gap_mobile": 4,
         "autoplay": true,
