@@ -107,14 +107,14 @@
         "heading_gQRp7q": {
           "type": "heading",
           "settings": {
-            "text": "REDEFINED LUXURY",
+            "text": "THE SECRET OF ZOMARIO'S SUEDE",
             "heading_tag": "h3"
           }
         },
         "richtext_Tye3Cp": {
           "type": "richtext",
           "settings": {
-            "content": "<p>At Zomário, we create refined everyday wear for the discerning customer who values finest craftsmanship, quiet elegance, and timeless design. Rooted in a European design perspective, our collections reflect clean structure, purposeful detail, and a commitment to lasting quality.</p><p>We believe true luxury isn’t loud — it’s felt in the cut of a collar, the texture of natural fibres, and the way a piece moves with you. Our garments are built to endure, designed to simplify, and tailored to elevate the everyday without distraction.</p><p><em>No flashy logos. Just the quiet satisfaction of wearing something truly exceptional.</em></p>"
+            "content": "<p>Crafted from the finest sheepskin leather, our suede is celebrated for its ultra-soft texture, natural breathability, and elegant drape. The hide is gently turned and buffed from the inside, revealing a subtle, velvety nap on the surface. Lightweight yet refined, it wraps the foot with a barely-there feel — effortlessly merging barefoot comfort with elevated summer style. Each piece is touched by expert artisans, ensuring perfect edge finishing and an impeccable suede surface with enduring character.</p>"
           }
         }
       },
@@ -126,7 +126,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/8_104d52d7-b056-4202-932c-3f3e07597c3f.webp",
+        "image": "shopify://shop_images/cawcwascwac.webp",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
@@ -139,14 +139,14 @@
         "heading_frLyjf": {
           "type": "heading",
           "settings": {
-            "text": "MADE TO LAST",
+            "text": "UNMATCHED LIGHTNESS & COMFORT",
             "heading_tag": "h3"
           }
         },
         "richtext_GY43Qm": {
           "type": "richtext",
           "settings": {
-            "content": "<p>The world doesn’t need another fashion brand—it needs better solutions. In the UK alone, 350,000 tonnes of still-wearable clothing go to landfill each year. Our response? An antidote to mass production and overconsumption.</p><p>Sustainability is at the core of everything we do. By crafting timeless, high-quality pieces, we create a wardrobe that transcends seasons and trends, reducing the need for constant replacements.</p><p>Style and luxury shouldn’t come at the planet’s expense. With Zomário, they never do.</p>"
+            "content": "<p>Supple Sheep Suede is prized for its naturally soft hand-feel, breathable pores, and flexible structure. The texture is fine and round to the touch, offering a relaxed luxury experience that adapts to your movement. Airy and lightweight, it’s ideal for long summer days — delivering comfort without compromise.</p>"
           }
         }
       },
@@ -158,7 +158,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
-        "image": "shopify://shop_images/11_19655236-5b70-4b1b-8ec7-1bf38238b134.webp",
+        "image": "shopify://shop_images/H72ead6b5401c467d8ad746af57f5b2c0P.jpg",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
