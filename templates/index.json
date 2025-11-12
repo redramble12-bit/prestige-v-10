@@ -590,7 +590,7 @@
         "nav_btn_hover_bg": "rgba(0,0,0,0)",
         "nav_border": "rgba(0,0,0,0)",
         "nav_border_hover": "rgba(0,0,0,0)",
-        "nav_icon": "rgba(0,0,0,0)",
+        "nav_icon": "#FFFFFF",
         "nav_hover_icon": "#FFFFFF",
         "background_color": "#FFFFFF",
         "background_gradient": "",
