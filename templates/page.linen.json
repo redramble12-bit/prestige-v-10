@@ -92,14 +92,14 @@
         "heading_gQRp7q": {
           "type": "heading",
           "settings": {
-            "text": "REDEFINED LUXURY",
+            "text": "CRAFTED FROM FLAX",
             "heading_tag": "h3"
           }
         },
         "richtext_Tye3Cp": {
           "type": "richtext",
           "settings": {
-            "content": "<p>At Zomário, we create refined everyday wear for the discerning customer who values finest craftsmanship, quiet elegance, and timeless design. Rooted in a European design perspective, our collections reflect clean structure, purposeful detail, and a commitment to lasting quality.</p><p>We believe true luxury isn’t loud — it’s felt in the cut of a collar, the texture of natural fibres, and the way a piece moves with you. Our garments are built to endure, designed to simplify, and tailored to elevate the everyday without distraction.</p><p><em>No flashy logos. Just the quiet satisfaction of wearing something truly exceptional.</em></p>"
+            "content": "<p>Woven from long-staple flax grown in Western Europe, our linen is naturally breathable, light, and durable. Its clean texture and soft structure offer effortless comfort — a material shaped by nature and time, made for warm weather and refined layers.</p>"
           }
         }
       },
@@ -111,7 +111,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/8_104d52d7-b056-4202-932c-3f3e07597c3f.webp",
+        "image": "shopify://shop_images/21_7895001f-693e-48f6-8de0-1d2eb4fd60da.webp",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
