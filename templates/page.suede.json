@@ -203,14 +203,14 @@
         "heading_48VpQb": {
           "type": "heading",
           "settings": {
-            "text": "MADE TO LAST",
+            "text": "WHY SHEEP SUEDE OVER CALF SUEDE?",
             "heading_tag": "h3"
           }
         },
         "richtext_Yiy6gp": {
           "type": "richtext",
           "settings": {
-            "content": "<p>The world doesn’t need another fashion brand—it needs better solutions. In the UK alone, 350,000 tonnes of still-wearable clothing go to landfill each year. Our response? An antidote to mass production and overconsumption.</p><p>Sustainability is at the core of everything we do. By crafting timeless, high-quality pieces, we create a wardrobe that transcends seasons and trends, reducing the need for constant replacements.</p><p>Style and luxury shouldn’t come at the planet’s expense. With Zomário, they never do.</p>"
+            "content": "<p>While calf suede is known for its structure and density, Sheep Suede is the superior choice for warm-weather footwear. It is lighter, more breathable, and significantly more pliable — allowing the shoe to mold softly to the foot, delivering a glove-like fit. The nap is finer and silkier, offering a more refined touch. Where calf suede suits structured boots and winterwear, Sheep Suede excels in summer elegance — ideal for effortless style and barefoot-level comfort. Simply put, it’s luxury for warm climates.</p>"
           }
         }
       },
@@ -220,9 +220,9 @@
       ],
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": false,
-        "image": "shopify://shop_images/24d274da-84c4-4f57-a41b-a1c6083a34df.png",
+        "image": "shopify://shop_images/USVDBVZNVUZ.webp",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
