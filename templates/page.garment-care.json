@@ -28,7 +28,7 @@
         "richtext_PWVCmK": {
           "type": "richtext",
           "settings": {
-            "content": "<p>WASHING:</p><ul><li>Hand wash or use a gentle machine wash cycle with cold water and mild wool detergent.</li><li>Avoid harsh soaps and fabric softeners, as they can damage the fibers.</li><li>Use a mesh laundry bag if machine washing to reduce friction and stretching.</li></ul>"
+            "content": "<p>WASHING:</p><ul><li>Hand wash or use a gentle machine wash cycle with cold water and mild wool detergent.</li><li>Avoid harsh soaps and fabric softeners, as they can damage the fibers.</li><li>Use a mesh laundry bag if machine washing to reduce friction and stretching.</li></ul><p></p><p>DRYING: </p><ul><li>Lay flat to dry on a clean towel to maintain shape.</li><li>Keep away from direct heat and sunlight to prevent shrinkage or fading.</li><li>Do not tumble dry, as high heat can damage wool fibers.</li></ul><p>STORAGE:</p><ul><li>Store in a cool, dry place to prevent mildew or odor buildup. </li><li>Use cedar blocks or lavender sachets to repel moths naturally.</li><li>Fold instead of hanging to maintain the garment’s shape and prevent stretching.</li></ul>"
           }
         }
       },
@@ -42,7 +42,7 @@
         "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "content_width": "lg",
-        "text_position": "center",
+        "text_position": "start",
         "remove_vertical_spacing": false
       }
     },
