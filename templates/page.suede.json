@@ -171,14 +171,14 @@
         "heading_QCywCp": {
           "type": "heading",
           "settings": {
-            "text": "NATURAL MATERIALS THAT MATTER",
+            "text": "EXCEPTIONAL SURFACE",
             "heading_tag": "h3"
           }
         },
         "richtext_daMiEM": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Our signature fabrics — including <a href=\"https://luciente-online.com/pages/poshwool\" title=\"CLOUDWOOL\">Cloudwool®</a>, <a href=\"https://luciente-online.com/pages/pure-cashmere\" title=\"PURE CASHMERE\">Alxa Cashmere</a>, <a href=\"https://luciente-online.com/pages/natural-linen\" title=\"NATURAL LINEN\">Linen</a> and <a href=\"https://luciente-online.com/pages/velutti-suede\" title=\"SUPPLE SHEEP SUEDE\">Supple Sheep Suede</a> — are chosen for comfort, structure, and tactile elegance.</p><p>Every fibre we select is sourced with intention, offering a balance of breathability, durability, and quiet luxury.</p>"
+            "content": "<p>Sourced from select European tanneries, Luciénte’s Velutti® Suede is finished through a slow, plant-based tanning method using natural extracts. A light oil treatment enhances the suede’s depth and character without affecting colour fastness. The result is a smooth, low-sheen surface with subtle variation — soft in the hand, rich in tone, and crafted to evolve beautifully with time.</p>"
           }
         }
       },
@@ -190,7 +190,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
-        "image": "shopify://shop_images/10_e8668680-364e-4c4e-9ab4-c20e45d43d32.webp",
+        "image": "shopify://shop_images/HS_BNCJKS_CV_S.webp",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
