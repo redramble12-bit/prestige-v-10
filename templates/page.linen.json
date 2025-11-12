@@ -124,14 +124,14 @@
         "heading_frLyjf": {
           "type": "heading",
           "settings": {
-            "text": "MADE TO LAST",
+            "text": "COOL BY NATURE",
             "heading_tag": "h3"
           }
         },
         "richtext_GY43Qm": {
           "type": "richtext",
           "settings": {
-            "content": "<p>The world doesn’t need another fashion brand—it needs better solutions. In the UK alone, 350,000 tonnes of still-wearable clothing go to landfill each year. Our response? An antidote to mass production and overconsumption.</p><p>Sustainability is at the core of everything we do. By crafting timeless, high-quality pieces, we create a wardrobe that transcends seasons and trends, reducing the need for constant replacements.</p><p>Style and luxury shouldn’t come at the planet’s expense. With Zomário, they never do.</p>"
+            "content": "<p>Linen stays cool against the skin, offering quiet structure and relaxed movement. Whether worn in the city or by the coast, it brings understated ease to everyday dressing — crisp, open-woven, and made to breathe with you.</p>"
           }
         }
       },
@@ -143,7 +143,7 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
-        "image": "shopify://shop_images/11_19655236-5b70-4b1b-8ec7-1bf38238b134.webp",
+        "image": "shopify://shop_images/VDSVSEAVAS.webp",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
@@ -156,14 +156,14 @@
         "heading_QCywCp": {
           "type": "heading",
           "settings": {
-            "text": "NATURAL MATERIALS THAT MATTER",
+            "text": "Grounded in Detail",
             "heading_tag": "h3"
           }
         },
         "richtext_daMiEM": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Our signature fabrics — including <a href=\"https://luciente-online.com/pages/poshwool\" title=\"CLOUDWOOL\">Cloudwool®</a>, <a href=\"https://luciente-online.com/pages/pure-cashmere\" title=\"PURE CASHMERE\">Alxa Cashmere</a>, <a href=\"https://luciente-online.com/pages/natural-linen\" title=\"NATURAL LINEN\">Linen</a> and <a href=\"https://luciente-online.com/pages/velutti-suede\" title=\"SUPPLE SHEEP SUEDE\">Supple Sheep Suede</a> — are chosen for comfort, structure, and tactile elegance.</p><p>Every fibre we select is sourced with intention, offering a balance of breathability, durability, and quiet luxury.</p>"
+            "content": "<p>Our linen is sourced from heritage mills in Europe, where soil, climate, and craftsmanship combine to produce fibres with clarity, length, and strength. Its subtle variations in tone and weave give each piece a refined, natural character that ages beautifully with time.</p>"
           }
         }
       },
@@ -175,41 +175,9 @@
       "settings": {
         "color_scheme": "scheme-2",
         "separate_section_with_border": false,
-        "image": "shopify://shop_images/10_e8668680-364e-4c4e-9ab4-c20e45d43d32.webp",
+        "image": "shopify://shop_images/nnn_64d004a6-122c-48cc-bb3e-569768465f5c.webp",
         "reveal_on_scroll": true,
         "image_position": "start",
-        "content_width": "sm",
-        "remove_vertical_spacing": true
-      }
-    },
-    "image_with_text_qUaXKC": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_48VpQb": {
-          "type": "heading",
-          "settings": {
-            "text": "MADE TO LAST",
-            "heading_tag": "h3"
-          }
-        },
-        "richtext_Yiy6gp": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>The world doesn’t need another fashion brand—it needs better solutions. In the UK alone, 350,000 tonnes of still-wearable clothing go to landfill each year. Our response? An antidote to mass production and overconsumption.</p><p>Sustainability is at the core of everything we do. By crafting timeless, high-quality pieces, we create a wardrobe that transcends seasons and trends, reducing the need for constant replacements.</p><p>Style and luxury shouldn’t come at the planet’s expense. With Zomário, they never do.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_48VpQb",
-        "richtext_Yiy6gp"
-      ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
-      "settings": {
-        "color_scheme": "scheme-2",
-        "separate_section_with_border": false,
-        "image": "shopify://shop_images/24d274da-84c4-4f57-a41b-a1c6083a34df.png",
-        "reveal_on_scroll": true,
-        "image_position": "end",
         "content_width": "sm",
         "remove_vertical_spacing": true
       }
@@ -270,7 +238,6 @@
     "image_with_text_WLMERC",
     "image_with_text_qWMgd6",
     "image_with_text_e8yy7E",
-    "image_with_text_qUaXKC",
     "featured_collections_PRwT8b",
     "recently_viewed_products_Lyb4NK"
   ]
