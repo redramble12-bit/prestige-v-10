@@ -70,18 +70,26 @@
         "subheading_Pcby4T": {
           "type": "subheading",
           "settings": {
-            "text": "since 1987"
+            "text": "discover The ZOMARIO's"
+          }
+        },
+        "heading_QiiANz": {
+          "type": "heading",
+          "settings": {
+            "text": "SUPPLE SHEEP SUEDE",
+            "heading_tag": "h1"
           }
         },
         "richtext_YNBazr": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Zomário is a family business that has quickly become a symbol of timeless elegance, blending innovation with tradition to create a perfect harmony of class and comfort for the modern man.</p>"
+            "content": "<p>Our Suede offers a velvety hand-feel and rich texture, designed to age beautifully while holding depth of colour and tone.</p>"
           }
         }
       },
       "block_order": [
         "subheading_Pcby4T",
+        "heading_QiiANz",
         "richtext_YNBazr"
       ],
       "name": "t:sections.rich_text.presets.rich_text.name",
