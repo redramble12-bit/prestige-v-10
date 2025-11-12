@@ -12,19 +12,11 @@
     "faq": {
       "type": "faq",
       "blocks": {
-        "category": {
-          "type": "category",
-          "settings": {
-            "title": "Order",
-            "icon": "none",
-            "icon_width": 16
-          }
-        },
         "question-1": {
           "type": "question",
           "settings": {
-            "question": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "question": "Warehouse Sale Details",
+            "answer": "<p>For the first time in our history, we are offering an exclusive sale as we prepare for our next chapter. Zomario is growing, and with this growth comes a transition—we are moving to a larger warehouse and working with new manufacturing partners to further elevate our quality. As a result, many of our current designs will be discontinued, making this your final opportunity to own them.</p><p>This sale is more than just an opportunity to shop—it’s our way of expressing our deepest gratitude to you, our customers. None of this would be possible without your trust and support.</p><p>To show appreciation for our community, we are offering 50% OFF. Additionally, we are introducing tiered discounts for even greater savings:</p><ul><li>Extra 10% off when purchasing 2 item</li><li>Extra 20% off when purchasing 3 items </li><li>Extra 30% off when purchasing 4+ items</li></ul><p>  No code needed – discounts apply automatically after adding items to cart.</p><p>This is our last remaining stock, and once it’s gone, it will not be restocked.</p><p>As always, returns are possible within 14 days. If the item you wish to exchange is still in stock, we will gladly process an exchange.</p><p>Zomario has always been dedicated to delivering exceptional quality at an accessible price, and for this limited time, our prices are even better. Don’t miss this rare opportunity.</p>"
           }
         },
         "question-2": {
@@ -43,7 +35,6 @@
         }
       },
       "block_order": [
-        "category",
         "question-1",
         "question-2",
         "question-3"
