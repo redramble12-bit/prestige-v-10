@@ -111,6 +111,17 @@
             "show_below_gallery": false
           }
         },
+        "accordion_PFemQa": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "none",
+            "title": "SHIPPING & Returns",
+            "content": "<p>Orders are<strong> dispatched within 1-3 business days</strong>, with <strong>delivery in 5-9 business days worldwide, </strong>depending on your location.</p><p><strong>We ship globally</strong>, excluding certain islands. Total shipping time = processing time + delivery time.</p><p>Local shipping costs are shown at checkout.</p><p><strong>Free shipping on all orders today.</strong></p><p>Need to make a change? We offer flexible return solutions within 30 days to ensure a smooth shopping experience.</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
         "kiwi_size_chart_recommender_kiwi_sizing_e4LaWB": {
           "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
           "settings": {
@@ -136,6 +147,7 @@
         "liquid_aPfJYd",
         "complementary_products",
         "description",
+        "accordion_PFemQa",
         "kiwi_size_chart_recommender_kiwi_sizing_e4LaWB"
       ],
       "settings": {
