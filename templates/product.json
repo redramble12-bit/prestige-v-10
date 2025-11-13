@@ -122,6 +122,28 @@
             "page": ""
           }
         },
+        "accordion_L9UEBc": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "none",
+            "title": "Sizing",
+            "content": "<p><em>Crafted in refined standard sizing.</em></p><p><em>For a more relaxed fit, we suggest one size up. Full sizing details are available under the product price via “</em><em><strong>Size Chart”</strong></em></p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "accordion_qExGjV": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": true,
+            "icon": "none",
+            "title": "Care Guide",
+            "content": "<p>We strongly recommend<strong>hand-washing</strong>all our products, when using machine wash make sure to use choose hand-wash to prevent shrinking / damaging of our premium materials.<br/><br/><strong>Air drying only.</strong></p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
         "kiwi_size_chart_recommender_kiwi_sizing_e4LaWB": {
           "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
           "settings": {
@@ -148,6 +170,8 @@
         "complementary_products",
         "description",
         "accordion_PFemQa",
+        "accordion_L9UEBc",
+        "accordion_qExGjV",
         "kiwi_size_chart_recommender_kiwi_sizing_e4LaWB"
       ],
       "settings": {
