@@ -26,6 +26,7 @@
     "product_image_aspect_ratio": "tall",
     "product_color_display": "hide",
     "discount_mode": "percentage",
+    "cart_show_free_shipping_bar": true,
     "favicon": "shopify://shop_images/N_C.png",
     "sections": {
       "main-gift-card": {
