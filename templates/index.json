@@ -22,7 +22,7 @@
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "Shop now",
-            "button_1_link": "shopify://collections/cloudwool-sets",
+            "button_1_link": "shopify://collections/cloudwool-sets-1",
             "button_1_style": "outline",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -57,21 +57,28 @@
     "rich_text_rP9eWh": {
       "type": "rich-text",
       "blocks": {
+        "subheading_HTJfBM": {
+          "type": "subheading",
+          "settings": {
+            "text": "Zomario's"
+          }
+        },
         "heading_yEeFn4": {
           "type": "heading",
           "settings": {
-            "text": "OUR biggest Sale is Live",
+            "text": "BLACK FRIDAY SALE has begun",
             "heading_tag": "h4"
           }
         },
         "richtext_384PQ8": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Zomario is entering a new era of growth. As we expand into a larger atelier and partner with elite manufacturers, many of our current designs will soon be retired. This marks a rare opportunity to own our iconic pieces at 50% off.</p><p>Extra 10% OFF 2 | 20% OFF 3 | 30% OFF 4+ items</p><p>No code needed – discounts apply automatically in cart</p>"
+            "content": "<p>This is the moment to secure our signature menswear pieces at 50% off. Exclusive, refined, and available only for a limited time during the Black Friday period.</p><p>Extra 10% OFF 2 | 20% OFF 3 | 30% OFF 4+ items</p><p>No code needed – discounts apply automatically in cart</p>"
           }
         }
       },
       "block_order": [
+        "subheading_HTJfBM",
         "heading_yEeFn4",
         "richtext_384PQ8"
       ],
@@ -590,9 +597,9 @@
         "nav_btn_hover_bg": "rgba(0,0,0,0)",
         "nav_border": "rgba(0,0,0,0)",
         "nav_border_hover": "rgba(0,0,0,0)",
-        "nav_icon": "#FFFFFF",
-        "nav_hover_icon": "#FFFFFF",
-        "background_color": "#FFFFFF",
+        "nav_icon": "#ffffff",
+        "nav_hover_icon": "#ffffff",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
