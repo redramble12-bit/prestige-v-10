@@ -103,7 +103,7 @@
           "settings": {
             "title": "GET IN TOUCH",
             "content": "<p>E-mail: <em>contact@zomario.com</em></p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
