@@ -481,5 +481,14 @@
     "links": {
       "powered_by_shopify": " "
     }
+  },
+  "customer_accounts": {
+    "payment_methods": {
+      "pay_pal": {
+        "errors": {
+          "generic": "Er is een probleem met PayPal. Probeer het opnieuw of gebruik een andere betaalmethode."
+        }
+      }
+    }
   }
 }
