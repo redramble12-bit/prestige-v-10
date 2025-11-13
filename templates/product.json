@@ -18,16 +18,16 @@
             "heading_tag": "h3"
           }
         },
-        "liquid_3kQnrE": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"feature_with_icon_hBq6KP\" data-block-type=\"feature-with-icon\"><div class=\"feature-badge border\" style=\"--text-color: 28 28 28; color: rgb(var(--text-color));--border-color: 80 80 80;\"><img src=\"//luciente-online.com/cdn/shop/files/paypal-black.svg?v=1740778871&amp;width=46\" alt=\"\" srcset=\"//luciente-online.com/cdn/shop/files/paypal-black.svg?v=1740778871&amp;width=32 32w, //luciente-online.com/cdn/shop/files/paypal-black.svg?v=1740778871&amp;width=46 46w\" width=\"46\" height=\"24\" sizes=\"32px\" class=\"constrained-image\" style=\"--image-max-width: 32px\"><p>Secure Payments with PayPal, Credit Card &amp; more</p></div></div>"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_3kQnrE": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"feature_with_icon_hBq6KP\" data-block-type=\"feature-with-icon\"><div class=\"feature-badge border\" style=\"--text-color: 28 28 28; color: rgb(var(--text-color));--border-color: 80 80 80;\"><img src=\"//luciente-online.com/cdn/shop/files/paypal-black.svg?v=1740778871&amp;width=46\" alt=\"\" srcset=\"//luciente-online.com/cdn/shop/files/paypal-black.svg?v=1740778871&amp;width=32 32w, //luciente-online.com/cdn/shop/files/paypal-black.svg?v=1740778871&amp;width=46 46w\" width=\"46\" height=\"24\" sizes=\"32px\" class=\"constrained-image\" style=\"--image-max-width: 32px\"><p>Secure Payments with PayPal, Credit Card &amp; more</p></div></div>"
           }
         },
         "payment_terms": {
@@ -51,6 +51,18 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
+        },
+        "liquid_F4xhHd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"inventory_BMABJa\" data-block-type=\"inventory\"><variant-inventory class=\"inventory text-warning\"><span>Only a few units left</span></variant-inventory></div>"
+          }
+        },
+        "liquid_CkfAkr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         },
         "liquid_9Aytyd": {
           "type": "liquid",
@@ -110,12 +122,14 @@
       },
       "block_order": [
         "title",
-        "liquid_3kQnrE",
         "price",
+        "liquid_3kQnrE",
         "payment_terms",
         "separator",
         "variant_picker",
         "quantity_selector",
+        "liquid_F4xhHd",
+        "liquid_CkfAkr",
         "liquid_9Aytyd",
         "buy_buttons",
         "liquid_7J6nQ4",
