@@ -12,7 +12,8 @@
     "sp_custom_html_LjNGdL": {
       "type": "sp-custom-html",
       "custom_css": [
-        "{background-color: #ffffff !important;}"
+        "{background-color: #ffffff !important;}",
+        " {padding-left: 100px;}"
       ],
       "name": "🚀SP - Custom HTML",
       "settings": {
