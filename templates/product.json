@@ -61,7 +61,7 @@
         "liquid_CkfAkr": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_7mgaYx\" data-block-type=\"liquid\"><div class=\"liquid\"><div class=\"shipping-bar\">\n    <span class=\"pulse-indicator\"></span>\n    <span>Ships in 24-48 hrs</span>\n    <span class=\"country-info\">\n        <img id=\"country-flag\" alt=\"NL Flag\" src=\"https://flagcdn.com/w40/nl.png\">\n        <span id=\"country-code\">NL</span> Free Shipping\n    </span>\n</div></div></div>"
           }
         },
         "liquid_9Aytyd": {
