@@ -24,6 +24,8 @@
     "button_letter_spacing": 18,
     "currency_code_enabled": false,
     "product_image_aspect_ratio": "tall",
+    "show_vendor": false,
+    "product_card_text_font": "heading",
     "product_color_display": "hide",
     "discount_mode": "percentage",
     "cart_show_free_shipping_bar": true,
