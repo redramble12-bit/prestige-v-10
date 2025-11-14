@@ -35,7 +35,7 @@
     "label": {
       "color": "Color,Colour",
       "white": "White",
-      "size": "Size,SIZE, Shirt Size, Bottom Size, "
+      "size": "Size,SIZE, Shirt Size, Bottom Size,Size Chart,Size Guide"
     },
     "social": {
       "follow_on": "Follow on {{ social_media }}",
