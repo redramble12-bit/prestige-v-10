@@ -35,7 +35,7 @@
     "label": {
       "color": "Color,Colour",
       "white": "White",
-      "size": "Size,SIZE "
+      "size": "Size,SIZE, Shirt Size, Bottom Size, "
     },
     "social": {
       "follow_on": "Follow on {{ social_media }}",
