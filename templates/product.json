@@ -97,7 +97,7 @@
         "liquid_aPfJYd": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"offers_TNDBKK\" data-block-type=\"offers\"><div class=\"product-offers border\" style=\"--background: 239 239 239 ; background-color: rgb(var(--background));--text-color: 94 0 0; color: rgb(var(--text-color));--border-color: 172 6 4;\">\n                <scroll-carousel id=\"product-offers-offers_TNDBKK\" class=\"product-offers__list product-offers__list--stack divide-y\">\n                  <div class=\"product-offers__item text-center snap-center\">\n                    <div class=\"v-stack gap-2.5\"><p class=\"h6\">50% OFF + TIERED DISCOUNTS</p><div class=\"prose\"><p>Extra 10% off&nbsp;2 | 20% off&nbsp;3 | 30% off&nbsp;4+items</p></div></div>\n                  </div>\n                </scroll-carousel></div></div>"
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"offers_TNDBKK\" data-block-type=\"offers\"><div class=\"product-offers border\" style=\"--background: 239 239 239 ; background-color: rgb(var(--background));--text-color: 94 0 0; color: rgb(var(--text-color));--border-color: 172 6 4;\">\n                <scroll-carousel id=\"product-offers-offers_TNDBKK\" class=\"product-offers__list product-offers__list--stack divide-y\">\n                  <div class=\"product-offers__item text-center snap-center\">\n                    <div class=\"v-stack gap-2.5\"><p class=\"h6\">50% OFF + TIERED DISCOUNTS</p><div class=\"prose\"><p>2 Extra 10% off&nbsp;2 | 20% off&nbsp;3 | 30% off&nbsp;4+items</p></div></div>\n                  </div>\n                </scroll-carousel></div></div>"
           }
         },
         "complementary_products": {
