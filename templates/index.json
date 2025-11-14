@@ -57,17 +57,17 @@
     "rich_text_rP9eWh": {
       "type": "rich-text",
       "blocks": {
-        "subheading_HTJfBM": {
-          "type": "subheading",
-          "settings": {
-            "text": "UP TO 50% OFF"
-          }
-        },
         "heading_yEeFn4": {
           "type": "heading",
           "settings": {
             "text": "BLACK FRIDAY SALE has begun",
-            "heading_tag": "h4"
+            "heading_tag": "h3"
+          }
+        },
+        "subheading_HTJfBM": {
+          "type": "subheading",
+          "settings": {
+            "text": "UP TO 50% OFF"
           }
         },
         "richtext_384PQ8": {
@@ -78,8 +78,8 @@
         }
       },
       "block_order": [
-        "subheading_HTJfBM",
         "heading_yEeFn4",
+        "subheading_HTJfBM",
         "richtext_384PQ8"
       ],
       "name": "t:sections.rich_text.presets.rich_text.name",
