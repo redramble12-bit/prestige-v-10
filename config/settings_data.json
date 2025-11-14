@@ -30,6 +30,8 @@
     "show_product_rating": false,
     "discount_mode": "percentage",
     "cart_show_free_shipping_bar": true,
+    "social_facebook": "https://www.facebook.com/profile.php?id=61583255776373",
+    "social_instagram": "https://www.instagram.com/byzomario/",
     "favicon": "shopify://shop_images/N_C_9_f71a6e5d-bfee-4d14-8bd7-846803d5cb65.png",
     "sections": {
       "main-gift-card": {
