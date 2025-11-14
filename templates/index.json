@@ -59,6 +59,7 @@
       "blocks": {
         "subheading_HTJfBM": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Zomario's"
           }
