@@ -26,6 +26,7 @@
         },
         "badges_aqE3PG": {
           "type": "badges",
+          "disabled": true,
           "settings": {}
         },
         "liquid_3kQnrE": {
