@@ -195,22 +195,22 @@
     "featured_collections_QFNeeY": {
       "type": "featured-collections",
       "blocks": {
-        "collection_jxpcVK": {
-          "type": "collection",
-          "settings": {
-            "collection": "cloudwool-sets-1",
-            "products_count": 4,
-            "title": "CLOUDWOOL®",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        },
         "collection_xNfAaj": {
           "type": "collection",
           "settings": {
             "collection": "mens-sweaters",
             "products_count": 8,
             "title": "SWEATERS",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        },
+        "collection_jxpcVK": {
+          "type": "collection",
+          "settings": {
+            "collection": "cloudwool-sets-1",
+            "products_count": 4,
+            "title": "CLOUDWOOL®",
             "link_url": "",
             "link_text": "View all"
           }
@@ -227,8 +227,8 @@
         }
       },
       "block_order": [
-        "collection_jxpcVK",
         "collection_xNfAaj",
+        "collection_jxpcVK",
         "collection_d6d3ic"
       ],
       "name": "t:sections.featured_collections.presets.featured_collections.name",
