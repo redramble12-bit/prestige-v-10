@@ -24,6 +24,10 @@
             "show_taxes_notice": false
           }
         },
+        "badges_zNwahp": {
+          "type": "badges",
+          "settings": {}
+        },
         "liquid_3kQnrE": {
           "type": "liquid",
           "settings": {
@@ -157,6 +161,7 @@
       "block_order": [
         "title",
         "price",
+        "badges_zNwahp",
         "liquid_3kQnrE",
         "payment_terms",
         "separator",
