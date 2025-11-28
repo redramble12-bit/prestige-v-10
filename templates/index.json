@@ -16,8 +16,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/VSVAEVAC.webp",
-            "subheading": "50% OFF + TIERED DISCOUNTS",
-            "title": "PRE BLACK FRIDAY SALE",
+            "subheading": "UP TO 50% OFF + TIERED DISCOUNTS",
+            "title": "BLACK FRIDAY SALE",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -60,7 +60,7 @@
         "heading_yEeFn4": {
           "type": "heading",
           "settings": {
-            "text": "PRE BLACK FRIDAY SALE",
+            "text": "BLACK FRIDAY SALE",
             "heading_tag": "h3"
           }
         },
