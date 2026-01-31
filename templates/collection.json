@@ -14,6 +14,7 @@
       "blocks": {
         "subheading_cKCP7R": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "BLACK FRIDAY SALE"
           }
@@ -91,6 +92,7 @@
         "text_V38iha",
         "text_KmUAtP"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling_content.presets.scrolling_content.name",
       "settings": {
         "separate_section_with_border": true,
