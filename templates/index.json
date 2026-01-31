@@ -16,8 +16,8 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/VSVAEVAC.webp",
-            "subheading": "UP TO 50% OFF + TIERED DISCOUNTS",
-            "title": "BLACK FRIDAY SALE",
+            "subheading": "",
+            "title": "For those who know",
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "content_max_width": 780,
@@ -82,6 +82,7 @@
         "subheading_HTJfBM",
         "richtext_384PQ8"
       ],
+      "disabled": true,
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "",
