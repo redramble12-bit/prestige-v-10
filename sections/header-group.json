@@ -16,6 +16,7 @@
       "blocks": {
         "message_7rddTj": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "PRE BLACK FRIDAY SALE"
           }
@@ -23,7 +24,7 @@
         "message-1": {
           "type": "message",
           "settings": {
-            "text": "ENJOY 50% OFF + TIERED DISCOUNTS"
+            "text": "FOR THOSE WHO KNOW"
           }
         },
         "message_Rem7iC": {
