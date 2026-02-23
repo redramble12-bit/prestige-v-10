@@ -94,13 +94,22 @@
             "content": "<p>E-mail: <em>contact@zomario.com</em></p>",
             "enable_follow_on_shop": false
           }
+        },
+        "text_NnBdFN": {
+          "type": "text",
+          "settings": {
+            "title": "Company",
+            "content": "<p><strong>Company name: </strong>GTW<br/><strong>Company address</strong>: Rudolf Nureyevstraat 23, 1326TC <br/>Almere, Netherlands</p><p><strong>Chamber of Commerce</strong>: 91925584</p>",
+            "enable_follow_on_shop": true
+          }
         }
       },
       "block_order": [
         "newsletter",
         "text",
         "links",
-        "text_LgmFRa"
+        "text_LgmFRa",
+        "text_NnBdFN"
       ],
       "settings": {
         "color_scheme": "scheme-3",
