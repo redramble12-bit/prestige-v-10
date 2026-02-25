@@ -70,7 +70,7 @@
         "subheading_Pcby4T": {
           "type": "subheading",
           "settings": {
-            "text": "since 1987"
+            "text": "since 2025"
           }
         },
         "richtext_YNBazr": {
@@ -364,9 +364,9 @@
         "nav_btn_hover_bg": "rgba(0,0,0,0)",
         "nav_border": "rgba(0,0,0,0)",
         "nav_border_hover": "rgba(0,0,0,0)",
-        "nav_icon": "#FFFFFF",
-        "nav_hover_icon": "#FFFFFF",
-        "background_color": "#FFFFFF",
+        "nav_icon": "#ffffff",
+        "nav_hover_icon": "#ffffff",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
