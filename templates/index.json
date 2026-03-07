@@ -208,6 +208,7 @@
         },
         "collection_jxpcVK": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "cloudwool-sets-1",
             "products_count": 4,
